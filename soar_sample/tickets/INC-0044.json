@@ -1,0 +1,18 @@
+{
+ "incident": "INC-0044",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.20",
+ "alerts": 1,
+ "lead_alert": 8,
+ "trigger_rule": "Single-packet UDP flow to no known service, no reply",
+ "attack_ids": [
+  "T1203"
+ ],
+ "summary": "udp/- flow in state INT (2 source packets, 1384 source bytes). Model score 0.69. Rules: Single-packet UDP flow to no known service, no reply. Most unusual: sload (x294 from normal), smean (x21 from normal), rate (x16 from normal).",
+ "score": 0.6895,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

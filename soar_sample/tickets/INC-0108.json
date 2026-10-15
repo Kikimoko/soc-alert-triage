@@ -1,0 +1,16 @@
+{
+ "incident": "INC-0108",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.35",
+ "alerts": 1,
+ "lead_alert": 500,
+ "trigger_rule": "model-only",
+ "attack_ids": [],
+ "summary": "tcp/http flow in state FIN (10 source packets, 1170 source bytes). Model score 1.00. Rules: no detection rule fired. Most unusual: ackdat (x837 from normal), tcprtt (x171 from normal), synack (x41 from normal).",
+ "score": 0.998,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

@@ -1,0 +1,15 @@
+title: Multiple HTTP methods on one connection (possible scripted probing)
+id: http_request_reused_connection
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        service: http
+        ct_flw_http_mthd|gte: 3
+    condition: selection
+level: low
+tags:
+    - attack.initial_access
+    - attack.t1190

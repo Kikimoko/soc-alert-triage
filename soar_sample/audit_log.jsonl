@@ -1,0 +1,919 @@
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 332, "src": "203.0.113.28", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 458, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 424, "src": "203.0.113.12", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 265, "src": "203.0.113.12", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 333, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 452, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 324, "src": "203.0.113.9", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 343, "src": "203.0.113.18", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 461, "src": "203.0.113.37", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 435, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 439, "src": "203.0.113.30", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 342, "src": "203.0.113.10", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 305, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 447, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 371, "src": "203.0.113.8", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 443, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 337, "src": "203.0.113.37", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 403, "src": "203.0.113.25", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 499, "src": "203.0.113.8", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 350, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 280, "src": "203.0.113.22", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 336, "src": "203.0.113.35", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 429, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 302, "src": "203.0.113.6", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 409, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 366, "src": "203.0.113.17", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 417, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 393, "src": "203.0.113.11", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 391, "src": "203.0.113.18", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 395, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 259, "src": "203.0.113.29", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 480, "src": "203.0.113.16", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 263, "src": "203.0.113.24", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 421, "src": "203.0.113.28", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 300, "src": "203.0.113.18", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 406, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 382, "src": "203.0.113.21", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 500, "src": "203.0.113.35", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 262, "src": "203.0.113.32", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 405, "src": "203.0.113.40", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 402, "src": "203.0.113.25", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 445, "src": "203.0.113.4", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 325, "src": "203.0.113.26", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 397, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 294, "src": "203.0.113.2", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 323, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 404, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 474, "src": "203.0.113.4", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 473, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 299, "src": "203.0.113.22", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 271, "src": "203.0.113.9", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 267, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 269, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 268, "src": "203.0.113.11", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 270, "src": "203.0.113.23", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 444, "src": "203.0.113.29", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 247, "src": "203.0.113.38", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 244, "src": "203.0.113.13", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 245, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 246, "src": "203.0.113.35", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 451, "src": "203.0.113.9", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 398, "src": "203.0.113.30", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 416, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 425, "src": "203.0.113.40", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 457, "src": "203.0.113.38", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 297, "src": "203.0.113.7", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 250, "src": "203.0.113.28", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 252, "src": "203.0.113.18", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 420, "src": "203.0.113.38", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 251, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 249, "src": "203.0.113.5", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 422, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 460, "src": "203.0.113.7", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 427, "src": "203.0.113.37", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 320, "src": "203.0.113.17", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 396, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 368, "src": "203.0.113.25", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 358, "src": "203.0.113.29", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 490, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 494, "src": "203.0.113.16", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 486, "src": "203.0.113.15", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 487, "src": "203.0.113.26", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 392, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 482, "src": "203.0.113.33", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 488, "src": "203.0.113.11", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 492, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 489, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 306, "src": "203.0.113.29", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 436, "src": "203.0.113.10", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 456, "src": "203.0.113.9", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 430, "src": "203.0.113.19", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 495, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 481, "src": "203.0.113.1", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 304, "src": "203.0.113.14", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 313, "src": "203.0.113.8", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 264, "src": "203.0.113.16", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 373, "src": "203.0.113.28", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 372, "src": "203.0.113.4", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 374, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 375, "src": "203.0.113.3", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 446, "src": "203.0.113.34", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 438, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 367, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 330, "src": "203.0.113.15", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 317, "src": "203.0.113.2", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 378, "src": "203.0.113.3", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 463, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 462, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 485, "src": "203.0.113.18", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 484, "src": "203.0.113.15", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 472, "src": "203.0.113.6", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 465, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 471, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 377, "src": "203.0.113.5", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 464, "src": "203.0.113.25", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 483, "src": "203.0.113.31", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 466, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 470, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 468, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 467, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 469, "src": "203.0.113.7", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 379, "src": "203.0.113.17", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 454, "src": "203.0.113.34", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 496, "src": "203.0.113.22", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 388, "src": "203.0.113.13", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 498, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 261, "src": "203.0.113.10", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 479, "src": "203.0.113.15", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 407, "src": "203.0.113.29", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 257, "src": "203.0.113.12", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 281, "src": "203.0.113.12", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 248, "src": "203.0.113.40", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 260, "src": "203.0.113.14", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 431, "src": "203.0.113.10", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 376, "src": "203.0.113.22", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 450, "src": "203.0.113.1", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 351, "src": "203.0.113.6", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 380, "src": "203.0.113.8", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 266, "src": "203.0.113.11", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 455, "src": "203.0.113.4", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 276, "src": "203.0.113.32", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 491, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 413, "src": "203.0.113.2", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 290, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 301, "src": "203.0.113.34", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 437, "src": "203.0.113.9", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 273, "src": "203.0.113.3", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 394, "src": "203.0.113.31", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 370, "src": "203.0.113.14", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 432, "src": "203.0.113.21", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 426, "src": "203.0.113.20", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 381, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 441, "src": "203.0.113.15", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 440, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 279, "src": "203.0.113.39", "model_action": "ESCALATE", "final_action": "ESCALATE", "policy": "ESCALATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 423, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 288, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 428, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 298, "src": "203.0.113.11", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 256, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 364, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 361, "src": "203.0.113.17", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 365, "src": "203.0.113.32", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 312, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 360, "src": "203.0.113.11", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 363, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 362, "src": "203.0.113.17", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 419, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 449, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 493, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 497, "src": "203.0.113.40", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 327, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 253, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 307, "src": "203.0.113.1", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 179, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 453, "src": "203.0.113.3", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 258, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 477, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 476, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 478, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 475, "src": "203.0.113.29", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 50, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 442, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 448, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 339, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 348, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 369, "src": "203.0.113.1", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 90, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 29, "src": "203.0.113.25", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 329, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 272, "src": "203.0.113.1", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 137, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 138, "src": "203.0.113.40", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 140, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 331, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 254, "src": "203.0.113.28", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 28, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 287, "src": "203.0.113.23", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 277, "src": "203.0.113.6", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 15, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 303, "src": "203.0.113.17", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 353, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 326, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 459, "src": "203.0.113.21", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 328, "src": "203.0.113.1", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 334, "src": "203.0.113.16", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 17, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 410, "src": "203.0.113.32", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 286, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 161, "src": "203.0.113.13", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 162, "src": "203.0.113.14", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 346, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 1, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 347, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 22, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 206, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 242, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 33, "src": "203.0.113.29", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 352, "src": "203.0.113.17", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 235, "src": "203.0.113.30", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 31, "src": "203.0.113.16", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 344, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 34, "src": "203.0.113.8", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 150, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 6, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 131, "src": "203.0.113.3", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 345, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 359, "src": "203.0.113.35", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 73, "src": "203.0.113.29", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 27, "src": "203.0.113.32", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 335, "src": "203.0.113.8", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 349, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 19, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 341, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 26, "src": "203.0.113.3", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 356, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 241, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 7, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 183, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 2, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 20, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 18, "src": "203.0.113.11", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 433, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 275, "src": "203.0.113.30", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 21, "src": "203.0.113.28", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 46, "src": "203.0.113.13", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 30, "src": "203.0.113.5", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 218, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 25, "src": "203.0.113.18", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 243, "src": "203.0.113.9", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 214, "src": "203.0.113.13", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 13, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 338, "src": "203.0.113.7", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 16, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 32, "src": "203.0.113.28", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 3, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 399, "src": "203.0.113.28", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 14, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 24, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 5, "src": "203.0.113.14", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 255, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 401, "src": "203.0.113.30", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 23, "src": "203.0.113.9", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 355, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 400, "src": "203.0.113.5", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 4, "src": "203.0.113.3", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 295, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 135, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 8, "src": "203.0.113.20", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 274, "src": "203.0.113.23", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 408, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 357, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 340, "src": "203.0.113.5", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 152, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 216, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 285, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 142, "src": "203.0.113.12", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 149, "src": "203.0.113.24", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 128, "src": "203.0.113.9", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 102, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 132, "src": "203.0.113.7", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 308, "src": "203.0.113.27", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 318, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 354, "src": "203.0.113.34", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 134, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 141, "src": "203.0.113.38", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 227, "src": "203.0.113.35", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 289, "src": "203.0.113.32", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 113, "src": "203.0.113.36", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 56, "src": "203.0.113.15", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 322, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 316, "src": "203.0.113.19", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 311, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 310, "src": "203.0.113.9", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 282, "src": "203.0.113.30", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 415, "src": "203.0.113.28", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 386, "src": "203.0.113.14", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 219, "src": "203.0.113.25", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 223, "src": "203.0.113.37", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 240, "src": "203.0.113.33", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 292, "src": "203.0.113.4", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 100, "src": "203.0.113.39", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 315, "src": "203.0.113.35", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 309, "src": "203.0.113.23", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 84, "src": "203.0.113.26", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 385, "src": "203.0.113.22", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 293, "src": "203.0.113.2", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 291, "src": "203.0.113.10", "model_action": "INVESTIGATE", "final_action": "INVESTIGATE", "policy": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 67, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 67}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 319, "src": "203.0.113.7", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 319}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 108, "src": "203.0.113.34", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 108}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 222, "src": "203.0.113.40", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 222}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 225, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 225}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 283, "src": "203.0.113.12", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 283}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 85, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 85}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 387, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 387}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 146, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 146}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 147, "src": "203.0.113.35", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 147}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 383, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 383}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 143, "src": "203.0.113.16", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 143}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 384, "src": "203.0.113.4", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 384}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 57, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 57}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 296, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 296}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 389, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 389}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 151, "src": "203.0.113.16", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 151}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 172, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 172}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 390, "src": "203.0.113.5", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 390}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 153, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 153}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 52, "src": "203.0.113.38", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 52}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 36, "src": "203.0.113.34", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 36}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 314, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 314}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 157, "src": "203.0.113.31", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 157}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 215, "src": "203.0.113.34", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 215}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 154, "src": "203.0.113.31", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 154}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 117, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 117}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 159, "src": "203.0.113.5", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 159}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 49, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 49}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 158, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 158}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 144, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 144}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 155, "src": "203.0.113.31", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 155}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 78, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 78}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 41, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 41}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 35, "src": "203.0.113.28", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 35}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 145, "src": "203.0.113.5", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 145}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 45, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 45}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 278, "src": "203.0.113.40", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 278}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 43, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 43}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 111, "src": "203.0.113.31", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 111}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 418, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 418}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 139, "src": "203.0.113.36", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 139}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 148, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 148}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 37, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 37}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 163, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 163}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 133, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 133}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 136, "src": "203.0.113.22", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 136}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 51, "src": "203.0.113.35", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 51}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 48, "src": "203.0.113.18", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 48}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 44, "src": "203.0.113.15", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 44}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 284, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 284}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 234, "src": "203.0.113.21", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 234}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 123, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 123}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 414, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 414}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 321, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 321}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 47, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 47}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 156, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 156}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 130, "src": "203.0.113.40", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 130}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 98, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 98}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 160, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 160}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 434, "src": "203.0.113.28", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 434}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 103, "src": "203.0.113.4", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 103}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 97, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 97}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 412, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 412}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 411, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 411}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 54, "src": "203.0.113.23", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 54}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 53, "src": "203.0.113.10", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 53}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 55, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 55}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 238, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 238}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 239, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 239}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 228, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 228}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 233, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 233}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 231, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 231}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 230, "src": "203.0.113.10", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 230}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 71, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 71}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 70, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 70}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 74, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 74}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 72, "src": "203.0.113.31", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 72}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 236, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 236}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 229, "src": "203.0.113.16", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 229}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 190, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 190}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 188, "src": "203.0.113.21", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 188}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 189, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 189}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 187, "src": "203.0.113.1", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 187}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 75, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 75}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 104, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 104}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 77, "src": "203.0.113.12", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 77}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 76, "src": "203.0.113.17", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 76}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 105, "src": "203.0.113.1", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 105}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 175, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 175}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 114, "src": "203.0.113.7", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 114}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 220, "src": "203.0.113.22", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 220}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 224, "src": "203.0.113.36", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 224}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 226, "src": "203.0.113.40", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 226}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 221, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 221}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 232, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 232}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 192, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 192}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 237, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 237}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 210, "src": "203.0.113.18", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 210}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 211, "src": "203.0.113.17", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 211}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 209, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 209}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 124, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 124}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 127, "src": "203.0.113.21", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 127}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 212, "src": "203.0.113.30", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 212}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 101, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 101}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 99, "src": "203.0.113.30", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 99}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 94, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 94}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 95, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 95}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 92, "src": "203.0.113.30", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 92}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 96, "src": "203.0.113.21", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 96}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 91, "src": "203.0.113.17", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 91}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 88, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 88}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 82, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 82}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 89, "src": "203.0.113.3", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 89}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 65, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 65}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 59, "src": "203.0.113.5", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 59}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 62, "src": "203.0.113.3", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 62}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 63, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 63}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 61, "src": "203.0.113.5", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 61}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 66, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 66}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 58, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 58}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 60, "src": "203.0.113.18", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 60}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 64, "src": "203.0.113.4", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 64}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 112, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 112}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 115, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 115}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 129, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 129}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 120, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 120}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 121, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 121}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 122, "src": "203.0.113.4", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 122}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 125, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 125}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 126, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 126}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 167, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 167}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 168, "src": "203.0.113.13", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 168}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 174, "src": "203.0.113.7", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 174}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 171, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 171}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 165, "src": "203.0.113.3", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 165}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 164, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 164}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 169, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 169}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 166, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 166}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 173, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 173}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 170, "src": "203.0.113.40", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 170}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 186, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 186}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 207, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 207}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 217, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 217}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 118, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 118}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 119, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 119}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 83, "src": "203.0.113.22", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 83}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 86, "src": "203.0.113.7", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 86}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 87, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 87}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 79, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 79}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 80, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 80}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 81, "src": "203.0.113.10", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 81}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 205, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 205}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 204, "src": "203.0.113.27", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 204}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 109, "src": "203.0.113.34", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 109}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 213, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 213}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 106, "src": "203.0.113.29", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 106}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 107, "src": "203.0.113.22", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 107}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 110, "src": "203.0.113.4", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 110}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 200, "src": "203.0.113.24", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 200}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 197, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 197}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 116, "src": "203.0.113.38", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 116}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 191, "src": "203.0.113.19", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 191}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 185, "src": "203.0.113.30", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 185}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 198, "src": "203.0.113.39", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 198}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 180, "src": "203.0.113.22", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 180}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 178, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 178}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 208, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 208}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 193, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 193}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 93, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 93}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 68, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 68}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 69, "src": "203.0.113.37", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 69}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 202, "src": "203.0.113.2", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 202}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 196, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 196}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 195, "src": "203.0.113.38", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 195}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 177, "src": "203.0.113.15", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 177}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 201, "src": "203.0.113.25", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 201}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 181, "src": "203.0.113.11", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 181}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 184, "src": "203.0.113.23", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 184}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 199, "src": "203.0.113.14", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 199}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 203, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 203}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 176, "src": "203.0.113.18", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 176}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 182, "src": "203.0.113.23", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 182}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 194, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 194}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 42, "src": "203.0.113.34", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 42}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 38, "src": "203.0.113.33", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 38}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 39, "src": "203.0.113.26", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 39}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 40, "src": "203.0.113.20", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 40}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 12, "src": "203.0.113.17", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 12}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 11, "src": "203.0.113.9", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 11}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 10, "src": "203.0.113.38", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 10}
+{"ts": "2026-09-30T19:02:48", "step": "enrich", "alert": 9, "src": "203.0.113.8", "model_action": "CLOSE", "final_action": "CLOSE", "policy": "CLOSE"}
+{"ts": "2026-09-30T19:02:48", "step": "auto_close", "alert": 9}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0001", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0001", "command": "iptables -A INPUT -s 203.0.113.1 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0002", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0002", "command": "iptables -A INPUT -s 203.0.113.1 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0003", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0003", "command": "iptables -A INPUT -s 203.0.113.10 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0004", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0004", "command": "iptables -A INPUT -s 203.0.113.10 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0005", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0006", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0007", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0007", "command": "iptables -A INPUT -s 203.0.113.11 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0008", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0008", "command": "iptables -A INPUT -s 203.0.113.11 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0009", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0009", "command": "iptables -A INPUT -s 203.0.113.11 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0010", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0010", "command": "iptables -A INPUT -s 203.0.113.11 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0011", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0012", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0012", "command": "iptables -A INPUT -s 203.0.113.12 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0013", "alerts": 8, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0013", "command": "iptables -A INPUT -s 203.0.113.12 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0014", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0015", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0016", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0016", "command": "iptables -A INPUT -s 203.0.113.13 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0017", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0018", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0019", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0019", "command": "iptables -A INPUT -s 203.0.113.14 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0020", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0020", "command": "iptables -A INPUT -s 203.0.113.14 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0021", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0022", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0022", "command": "iptables -A INPUT -s 203.0.113.15 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0023", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0023", "command": "iptables -A INPUT -s 203.0.113.15 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0024", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0024", "command": "iptables -A INPUT -s 203.0.113.15 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0025", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0026", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0026", "command": "iptables -A INPUT -s 203.0.113.16 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0027", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0028", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0028", "command": "iptables -A INPUT -s 203.0.113.16 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0029", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0030", "alerts": 3, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0030", "command": "iptables -A INPUT -s 203.0.113.17 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0031", "alerts": 3, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0031", "command": "iptables -A INPUT -s 203.0.113.17 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0032", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0033", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0033", "command": "iptables -A INPUT -s 203.0.113.18 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0034", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0034", "command": "iptables -A INPUT -s 203.0.113.18 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0035", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0036", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0036", "command": "iptables -A INPUT -s 203.0.113.18 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0037", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0038", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0038", "command": "iptables -A INPUT -s 203.0.113.19 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0039", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0040", "alerts": 6, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0040", "command": "iptables -A INPUT -s 203.0.113.2 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0041", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0042", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0043", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0044", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0045", "alerts": 7, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0045", "command": "iptables -A INPUT -s 203.0.113.20 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0046", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0046", "command": "iptables -A INPUT -s 203.0.113.20 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0047", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0047", "command": "iptables -A INPUT -s 203.0.113.20 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0048", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0049", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0049", "command": "iptables -A INPUT -s 203.0.113.21 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0050", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0050", "command": "iptables -A INPUT -s 203.0.113.21 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0051", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0052", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0053", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0054", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0054", "command": "iptables -A INPUT -s 203.0.113.22 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0055", "alerts": 3, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0055", "command": "iptables -A INPUT -s 203.0.113.22 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0056", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0056", "command": "iptables -A INPUT -s 203.0.113.22 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0057", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0058", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0059", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0059", "command": "iptables -A INPUT -s 203.0.113.23 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0060", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0061", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0062", "alerts": 6, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0063", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0063", "command": "iptables -A INPUT -s 203.0.113.24 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0064", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0065", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0066", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0066", "command": "iptables -A INPUT -s 203.0.113.25 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0067", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0067", "command": "iptables -A INPUT -s 203.0.113.25 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0068", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0069", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0069", "command": "iptables -A INPUT -s 203.0.113.26 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0070", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0071", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0071", "command": "iptables -A INPUT -s 203.0.113.26 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0072", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0073", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0074", "alerts": 4, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0075", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0076", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0076", "command": "iptables -A INPUT -s 203.0.113.28 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0077", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0078", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0078", "command": "iptables -A INPUT -s 203.0.113.28 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0079", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0079", "command": "iptables -A INPUT -s 203.0.113.28 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0080", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0081", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0081", "command": "iptables -A INPUT -s 203.0.113.29 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0082", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0083", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0084", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0084", "command": "iptables -A INPUT -s 203.0.113.3 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0085", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0085", "command": "iptables -A INPUT -s 203.0.113.3 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0086", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0087", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0087", "command": "iptables -A INPUT -s 203.0.113.30 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0088", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0089", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0089", "command": "iptables -A INPUT -s 203.0.113.31 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0090", "alerts": 6, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0090", "command": "iptables -A INPUT -s 203.0.113.31 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0091", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0091", "command": "iptables -A INPUT -s 203.0.113.31 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0092", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0093", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0093", "command": "iptables -A INPUT -s 203.0.113.32 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0094", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0094", "command": "iptables -A INPUT -s 203.0.113.32 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0095", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0095", "command": "iptables -A INPUT -s 203.0.113.32 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0096", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0096", "command": "iptables -A INPUT -s 203.0.113.32 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0097", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0097", "command": "iptables -A INPUT -s 203.0.113.32 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0098", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0099", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0099", "command": "iptables -A INPUT -s 203.0.113.33 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0100", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0101", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0102", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0103", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0104", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0104", "command": "iptables -A INPUT -s 203.0.113.34 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0105", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0105", "command": "iptables -A INPUT -s 203.0.113.34 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0106", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0106", "command": "iptables -A INPUT -s 203.0.113.35 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0107", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0107", "command": "iptables -A INPUT -s 203.0.113.35 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0108", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0109", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0110", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0111", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0112", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0113", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0113", "command": "iptables -A INPUT -s 203.0.113.37 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0114", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0115", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0116", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0116", "command": "iptables -A INPUT -s 203.0.113.38 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0117", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0117", "command": "iptables -A INPUT -s 203.0.113.38 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0118", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0119", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0119", "command": "iptables -A INPUT -s 203.0.113.39 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0120", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0121", "alerts": 7, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0121", "command": "iptables -A INPUT -s 203.0.113.39 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0122", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0122", "command": "iptables -A INPUT -s 203.0.113.39 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0123", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0124", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0124", "command": "iptables -A INPUT -s 203.0.113.4 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0125", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0125", "command": "iptables -A INPUT -s 203.0.113.4 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0126", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0126", "command": "iptables -A INPUT -s 203.0.113.4 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0127", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0127", "command": "iptables -A INPUT -s 203.0.113.4 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0128", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0129", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0130", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0131", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0131", "command": "iptables -A INPUT -s 203.0.113.40 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0132", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0132", "command": "iptables -A INPUT -s 203.0.113.40 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0133", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0134", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0134", "command": "iptables -A INPUT -s 203.0.113.5 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0135", "alerts": 3, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0136", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0136", "command": "iptables -A INPUT -s 203.0.113.5 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0137", "alerts": 3, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0137", "command": "iptables -A INPUT -s 203.0.113.6 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0138", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0139", "alerts": 4, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0139", "command": "iptables -A INPUT -s 203.0.113.7 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0140", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0141", "alerts": 2, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0141", "command": "iptables -A INPUT -s 203.0.113.8 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0142", "alerts": 3, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0142", "command": "iptables -A INPUT -s 203.0.113.8 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0143", "alerts": 1, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0144", "alerts": 2, "severity": "INVESTIGATE"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0145", "alerts": 5, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0145", "command": "iptables -A INPUT -s 203.0.113.9 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0146", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0146", "command": "iptables -A INPUT -s 203.0.113.9 -j DROP"}
+{"ts": "2026-09-30T19:02:49", "step": "ticket", "incident": "INC-0147", "alerts": 1, "severity": "ESCALATE"}
+{"ts": "2026-09-30T19:02:49", "step": "containment_proposed", "incident": "INC-0147", "command": "iptables -A INPUT -s 203.0.113.9 -j DROP"}

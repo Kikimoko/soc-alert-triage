@@ -1,0 +1,19 @@
+title: Uncommon IP protocol on the wire
+id: rare_ip_protocol
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        proto|in:
+            - unas
+            - ospf
+            - sctp
+            - sun-nd
+            - pim
+    condition: selection
+level: medium
+tags:
+    - attack.command_and_control
+    - attack.t1095

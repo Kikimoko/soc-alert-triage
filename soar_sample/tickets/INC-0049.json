@@ -1,0 +1,18 @@
+{
+ "incident": "INC-0049",
+ "severity": "ESCALATE",
+ "source_indicator(synthetic)": "203.0.113.21",
+ "alerts": 1,
+ "lead_alert": 490,
+ "trigger_rule": "One source touching many destination ports quickly",
+ "attack_ids": [
+  "T1046"
+ ],
+ "summary": "egp/- flow in state INT (2 source packets, 180 source bytes). Model score 1.00. Rules: One source touching many destination ports quickly. Most unusual: sload (x178 from normal), rate (x76 from normal), ct_dst_ltm (x5 from normal).",
+ "score": 0.996,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

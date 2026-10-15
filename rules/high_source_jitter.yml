@@ -1,0 +1,14 @@
+title: Very high source packet-timing jitter
+id: high_source_jitter
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        sjit|gt: 20000
+    condition: selection
+level: low
+tags:
+    - attack.defense_evasion
+    - attack.t1027

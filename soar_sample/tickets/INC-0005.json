@@ -1,0 +1,19 @@
+{
+ "incident": "INC-0005",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.10",
+ "alerts": 1,
+ "lead_alert": 348,
+ "trigger_rule": "Very high source packet-timing jitter",
+ "attack_ids": [
+  "T1027",
+  "T1046"
+ ],
+ "summary": "tcp/- flow in state FIN (12 source packets, 1042 source bytes). Model score 0.97. Rules: Very high source packet-timing jitter; TCP flow with unusually slow request pacing. Most unusual: sjit (x4725 from normal), dinpkt (x4587 from normal), sinpkt (x2439 from normal).",
+ "score": 0.9675,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

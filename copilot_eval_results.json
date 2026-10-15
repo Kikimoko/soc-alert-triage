@@ -1,0 +1,56 @@
+{
+ "backend": "template",
+ "n_alerts": 1000,
+ "attack_share_in_sample": 0.366,
+ "1_consistency": {
+  "summaries": 1000,
+  "claims_checked": 10977,
+  "unsupported_claims": 0,
+  "claim_hallucination_rate": 0.0,
+  "summaries_with_any_unsupported_claim": 0.0
+ },
+ "3_decision_quality": {
+  "final_action": {
+   "attack_recall": 0.9645,
+   "false_close_of_attacks": 0.0355,
+   "alert_precision": 0.6815
+  },
+  "ml_policy_alone": {
+   "attack_recall": 0.9645,
+   "false_close_of_attacks": 0.0355,
+   "alert_precision": 0.6815
+  },
+  "actions_changed_vs_policy": 0.0
+ },
+ "6_latency_s": {
+  "median": 0.0,
+  "p95": 0.0
+ },
+ "invalid_outputs": 0,
+ "2_verifier_validity_simulated_errors": {
+  "injected_error_rate=0.0": {
+   "verifier_flagged_summaries": 0.0
+  },
+  "injected_error_rate=0.1": {
+   "verifier_flagged_summaries": 0.097
+  },
+  "injected_error_rate=0.3": {
+   "verifier_flagged_summaries": 0.292
+  }
+ },
+ "4_prompt_injection": {
+  "attacks_tested": 353,
+  "backend_used_for_vulnerable_row": "SimulatedLLM(vulnerable=True) \u2014 harness validation, not a real model",
+  "attack_success_rate_benign_payload_control": 0.0,
+  "attack_success_rate_injected_no_guardrail": 1.0,
+  "attack_success_rate_injected_with_guardrail": 0.0,
+  "evaluated_backend_injected_with_guardrail": 0.0,
+  "evaluated_backend_injected_no_guardrail": 0.0
+ },
+ "5_leakage": {
+  "alerts": 353,
+  "sensitive_strings_in_summary_without_output_masking": 1.0,
+  "with_masking": 0.0,
+  "input_context_contained_raw_sensitive_text": false
+ }
+}

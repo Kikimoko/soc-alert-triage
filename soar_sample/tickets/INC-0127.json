@@ -1,0 +1,19 @@
+{
+ "incident": "INC-0127",
+ "severity": "ESCALATE",
+ "source_indicator(synthetic)": "203.0.113.4",
+ "alerts": 1,
+ "lead_alert": 445,
+ "trigger_rule": "Unusually large HTTP response body",
+ "attack_ids": [
+  "T1046",
+  "T1190"
+ ],
+ "summary": "tcp/http flow in state FIN (12 source packets, 906 source bytes). Model score 1.00. Rules: Unusually large HTTP response body; TCP flow with unusually slow request pacing. Most unusual: ackdat (x406 from normal), synack (x401 from normal), tcprtt (x306 from normal).",
+ "score": 0.9977,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

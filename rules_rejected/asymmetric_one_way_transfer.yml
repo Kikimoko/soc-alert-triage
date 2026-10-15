@@ -1,0 +1,16 @@
+title: Large outbound data with almost no reply
+id: asymmetric_one_way_transfer
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        sbytes|gt: 500
+        dbytes|lt: 100
+        proto: tcp
+    condition: selection
+level: low
+tags:
+    - attack.exfiltration
+    - attack.t1041

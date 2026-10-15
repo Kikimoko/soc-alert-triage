@@ -1,0 +1,17 @@
+title: Single-packet UDP flow to no known service, no reply
+id: udp_single_packet_no_service
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        proto: udp
+        service: '-'
+        state: INT
+        dpkts: 0
+    condition: selection
+level: low
+tags:
+    - attack.execution
+    - attack.t1203

@@ -1,0 +1,14 @@
+title: Burst of connections between one source and one destination
+id: connection_burst_src_dst_pair
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        ct_dst_src_ltm|gte: 15
+    condition: selection
+level: medium
+tags:
+    - attack.impact
+    - attack.t1498

@@ -1,0 +1,29 @@
+# Burst of connections to the same destination service
+index=network_flow ct_srv_dst>=15
+
+# Burst of connections between one source and one destination
+index=network_flow ct_dst_src_ltm>=15
+
+# DNS queries with no responses in high volume
+index=network_flow proto="udp" service="dns" dpkts=0 ct_srv_src>=10
+
+# Very high source packet-timing jitter
+index=network_flow sjit>20000
+
+# Multiple HTTP methods on one connection (possible scripted probing)
+index=network_flow service="http" ct_flw_http_mthd>=3
+
+# Unusually large HTTP response body
+index=network_flow service="http" response_body_len>5000
+
+# One source touching many destination ports quickly
+index=network_flow ct_src_dport_ltm>=8
+
+# Uncommon IP protocol on the wire
+index=network_flow (proto="unas" OR proto="ospf" OR proto="sctp" OR proto="sun-nd" OR proto="pim")
+
+# TCP flow with unusually slow request pacing
+index=network_flow proto="tcp" sinpkt>30 rate<100
+
+# Single-packet UDP flow to no known service, no reply
+index=network_flow proto="udp" service="-" state="INT" dpkts=0

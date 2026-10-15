@@ -1,0 +1,14 @@
+title: Burst of connections to the same destination service
+id: connection_burst_same_service
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        ct_srv_dst|gte: 15
+    condition: selection
+level: medium
+tags:
+    - attack.impact
+    - attack.t1498

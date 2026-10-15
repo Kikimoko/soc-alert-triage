@@ -1,0 +1,18 @@
+{
+ "incident": "INC-0030",
+ "severity": "ESCALATE",
+ "source_indicator(synthetic)": "203.0.113.17",
+ "alerts": 3,
+ "lead_alert": 320,
+ "trigger_rule": "TCP flow with unusually slow request pacing",
+ "attack_ids": [
+  "T1046"
+ ],
+ "summary": "tcp/http flow in state FIN (10 source packets, 780 source bytes). Model score 1.00. Rules: TCP flow with unusually slow request pacing. Most unusual: ackdat (x1185 from normal), tcprtt (x364 from normal), synack (x265 from normal).",
+ "score": 0.9962,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

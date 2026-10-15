@@ -1,0 +1,16 @@
+title: TCP flow with unusually slow request pacing
+id: slow_paced_tcp_flow
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        proto: tcp
+        sinpkt|gt: 30
+        rate|lt: 100
+    condition: selection
+level: low
+tags:
+    - attack.discovery
+    - attack.t1046

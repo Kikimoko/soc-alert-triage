@@ -1,0 +1,19 @@
+{
+ "incident": "INC-0053",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.22",
+ "alerts": 1,
+ "lead_alert": 137,
+ "trigger_rule": "Multiple HTTP methods on one connection (possible scripted probing)",
+ "attack_ids": [
+  "T1046",
+  "T1190"
+ ],
+ "summary": "tcp/http flow in state FIN (10 source packets, 822 source bytes). Model score 0.96. Rules: Multiple HTTP methods on one connection (possible scripted probing); TCP flow with unusually slow request pacing. Most unusual: ackdat (x2550 from normal), tcprtt (x789 from normal), synack (x579 from normal).",
+ "score": 0.9602,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

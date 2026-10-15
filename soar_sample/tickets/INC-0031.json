@@ -1,0 +1,18 @@
+{
+ "incident": "INC-0031",
+ "severity": "ESCALATE",
+ "source_indicator(synthetic)": "203.0.113.17",
+ "alerts": 3,
+ "lead_alert": 379,
+ "trigger_rule": "Uncommon IP protocol on the wire",
+ "attack_ids": [
+  "T1095"
+ ],
+ "summary": "ospf/- flow in state INT (18 source packets, 2858 source bytes). Model score 0.99. Rules: Uncommon IP protocol on the wire. Most unusual: sinpkt (x14 from normal), dur (x6 from normal), smean (x3 from normal).",
+ "score": 0.9944,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

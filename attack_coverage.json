@@ -1,0 +1,178 @@
+{
+ "technique_tag_coverage": {
+  "techniques_in_scope": 11,
+  "with_a_tagged_rule": 6,
+  "share": 0.545
+ },
+ "per_category": [
+  {
+   "attack_category": "Reconnaissance",
+   "flows": 2224,
+   "mapped_techniques": [
+    "T1046",
+    "T1595"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1046"
+   ],
+   "techniques_without_tagged_rule": [
+    "T1595"
+   ],
+   "flagged_by_any_rule": 0.899,
+   "kept_for_review_by_ML_policy": 0.993
+  },
+  {
+   "attack_category": "Analysis",
+   "flows": 294,
+   "mapped_techniques": [
+    "T1595",
+    "T1190"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1190"
+   ],
+   "techniques_without_tagged_rule": [
+    "T1595"
+   ],
+   "flagged_by_any_rule": 0.704,
+   "kept_for_review_by_ML_policy": 0.939
+  },
+  {
+   "attack_category": "Fuzzers",
+   "flows": 4335,
+   "mapped_techniques": [
+    "T1190",
+    "T1499"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1190"
+   ],
+   "techniques_without_tagged_rule": [
+    "T1499"
+   ],
+   "flagged_by_any_rule": 0.897,
+   "kept_for_review_by_ML_policy": 0.864
+  },
+  {
+   "attack_category": "DoS",
+   "flows": 1186,
+   "mapped_techniques": [
+    "T1498",
+    "T1499"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1498"
+   ],
+   "techniques_without_tagged_rule": [
+    "T1499"
+   ],
+   "flagged_by_any_rule": 0.684,
+   "kept_for_review_by_ML_policy": 0.992
+  },
+  {
+   "attack_category": "Exploits",
+   "flows": 7085,
+   "mapped_techniques": [
+    "T1190",
+    "T1203"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1190",
+    "T1203"
+   ],
+   "techniques_without_tagged_rule": [],
+   "flagged_by_any_rule": 0.72,
+   "kept_for_review_by_ML_policy": 0.987
+  },
+  {
+   "attack_category": "Shellcode",
+   "flows": 365,
+   "mapped_techniques": [
+    "T1203",
+    "T1059"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1203"
+   ],
+   "techniques_without_tagged_rule": [
+    "T1059"
+   ],
+   "flagged_by_any_rule": 0.858,
+   "kept_for_review_by_ML_policy": 0.992
+  },
+  {
+   "attack_category": "Backdoor",
+   "flows": 70,
+   "mapped_techniques": [
+    "T1095",
+    "T1071"
+   ],
+   "techniques_with_a_tagged_rule": [
+    "T1095",
+    "T1071"
+   ],
+   "techniques_without_tagged_rule": [],
+   "flagged_by_any_rule": 0.714,
+   "kept_for_review_by_ML_policy": 1.0
+  },
+  {
+   "attack_category": "Worms",
+   "flows": 43,
+   "mapped_techniques": [
+    "T1210"
+   ],
+   "techniques_with_a_tagged_rule": [],
+   "techniques_without_tagged_rule": [
+    "T1210"
+   ],
+   "flagged_by_any_rule": 0.744,
+   "kept_for_review_by_ML_policy": 1.0
+  },
+  {
+   "attack_category": "Generic",
+   "flows": 3381,
+   "mapped_techniques": [
+    "T1600"
+   ],
+   "techniques_with_a_tagged_rule": [],
+   "techniques_without_tagged_rule": [
+    "T1600"
+   ],
+   "flagged_by_any_rule": 0.815,
+   "kept_for_review_by_ML_policy": 0.999
+  }
+ ],
+ "rule_to_technique": {
+  "Burst of connections to the same destination service": [
+   "T1498"
+  ],
+  "Burst of connections between one source and one destination": [
+   "T1498"
+  ],
+  "DNS queries with no responses in high volume": [
+   "T1071.004"
+  ],
+  "Very high source packet-timing jitter": [
+   "T1027"
+  ],
+  "Multiple HTTP methods on one connection (possible scripted probing)": [
+   "T1190"
+  ],
+  "Unusually large HTTP response body": [
+   "T1190"
+  ],
+  "One source touching many destination ports quickly": [
+   "T1046"
+  ],
+  "Uncommon IP protocol on the wire": [
+   "T1095"
+  ],
+  "TCP flow with unusually slow request pacing": [
+   "T1046"
+  ],
+  "Single-packet UDP flow to no known service, no reply": [
+   "T1203"
+  ]
+ },
+ "normal_traffic_review_rate(alert_noise)": 0.259
+}

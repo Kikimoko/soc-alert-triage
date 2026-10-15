@@ -1,0 +1,20 @@
+{
+ "incident": "INC-0018",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.14",
+ "alerts": 1,
+ "lead_alert": 386,
+ "trigger_rule": "Burst of connections to the same destination service",
+ "attack_ids": [
+  "T1046",
+  "T1203",
+  "T1498"
+ ],
+ "summary": "udp/- flow in state INT (2 source packets, 754 source bytes). Model score 0.53. Rules: Burst of connections to the same destination service; Burst of connections between one source and one destination; One source touching many destination ports quickly; Single-packet UDP flow to no known service, no reply. Most unusual: sload (x561 from normal), rate (x57 from normal), ct_dst_src_ltm (x24 from normal).",
+ "score": 0.5299,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

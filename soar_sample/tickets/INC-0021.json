@@ -1,0 +1,16 @@
+{
+ "incident": "INC-0021",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.14",
+ "alerts": 1,
+ "lead_alert": 304,
+ "trigger_rule": "model-only",
+ "attack_ids": [],
+ "summary": "tcp/pop3 flow in state FIN (246 source packets, 10662 source bytes). Model score 1.00. Rules: no detection rule fired. Most unusual: dbytes (x935 from normal), ackdat (x832 from normal), tcprtt (x189 from normal).",
+ "score": 0.9951,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

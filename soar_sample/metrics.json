@@ -1,0 +1,11 @@
+{
+ "alerts_ingested": 500,
+ "auto_closed": 192,
+ "incidents_created": 147,
+ "alerts_per_incident_mean": 2.1,
+ "containment_proposals": 80,
+ "containment_applied": 0,
+ "automated_steps": 2066,
+ "median_pipeline_latency_ms_per_alert": 0.09,
+ "total_runtime_s": 0.28
+}

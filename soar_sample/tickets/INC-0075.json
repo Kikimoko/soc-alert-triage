@@ -1,0 +1,16 @@
+{
+ "incident": "INC-0075",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.27",
+ "alerts": 1,
+ "lead_alert": 477,
+ "trigger_rule": "model-only",
+ "attack_ids": [],
+ "summary": "st2/- flow in state INT (4 source packets, 360 source bytes). Model score 0.97. Rules: no detection rule fired. Most unusual: sinpkt (x174 from normal), dur (x14 from normal), sjit (x4 from normal).",
+ "score": 0.9712,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

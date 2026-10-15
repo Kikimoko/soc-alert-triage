@@ -1,0 +1,16 @@
+{
+ "incident": "INC-0043",
+ "severity": "INVESTIGATE",
+ "source_indicator(synthetic)": "203.0.113.2",
+ "alerts": 1,
+ "lead_alert": 428,
+ "trigger_rule": "model-only",
+ "attack_ids": [],
+ "summary": "udp/snmp flow in state INT (2 source packets, 136 source bytes). Model score 0.99. Rules: no detection rule fired. Most unusual: sload (x115 from normal), rate (x65 from normal), synack (x3 from normal).",
+ "score": 0.988,
+ "next_steps": [
+  "Validate in SIEM/EDR",
+  "Check asset criticality",
+  "Decide containment (human approval)"
+ ]
+}

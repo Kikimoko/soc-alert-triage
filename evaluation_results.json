@@ -1,0 +1,332 @@
+{
+  "data_hygiene": {
+    "train_raw": 175341,
+    "test_raw": 82332,
+    "train_after_dedupe": 101269,
+    "test_after_dedupe": 53952,
+    "train_conflicting_label_rows_removed": 458,
+    "test_conflicting_label_rows_removed": 12,
+    "test_rows_identical_to_a_train_row_removed": 1202,
+    "train_final": 100811,
+    "test_final": 52738,
+    "train_attack_share": 0.488,
+    "test_attack_share": 0.36
+  },
+  "rules_train": {
+    "connection_burst_same_service": {
+      "fires": 5237,
+      "precision": 0.678,
+      "attack_recall": 0.072,
+      "level": "medium"
+    },
+    "connection_burst_src_dst_pair": {
+      "fires": 4832,
+      "precision": 0.804,
+      "attack_recall": 0.079,
+      "level": "medium"
+    },
+    "dns_no_response_burst": {
+      "fires": 3182,
+      "precision": 1.0,
+      "attack_recall": 0.065,
+      "level": "medium"
+    },
+    "high_source_jitter": {
+      "fires": 1659,
+      "precision": 0.662,
+      "attack_recall": 0.022,
+      "level": "low"
+    },
+    "http_request_reused_connection": {
+      "fires": 483,
+      "precision": 0.615,
+      "attack_recall": 0.006,
+      "level": "low"
+    },
+    "large_http_response_body": {
+      "fires": 1470,
+      "precision": 0.735,
+      "attack_recall": 0.022,
+      "level": "low"
+    },
+    "many_ports_probed": {
+      "fires": 4309,
+      "precision": 0.754,
+      "attack_recall": 0.066,
+      "level": "medium"
+    },
+    "rare_ip_protocol": {
+      "fires": 754,
+      "precision": 0.919,
+      "attack_recall": 0.014,
+      "level": "medium"
+    },
+    "slow_paced_tcp_flow": {
+      "fires": 44881,
+      "precision": 0.694,
+      "attack_recall": 0.634,
+      "level": "low"
+    },
+    "udp_single_packet_no_service": {
+      "fires": 7672,
+      "precision": 0.747,
+      "attack_recall": 0.117,
+      "level": "low"
+    }
+  },
+  "rules_only_baseline": {
+    "train": {
+      "alert_share": 0.58,
+      "precision": 0.709,
+      "recall": 0.844
+    },
+    "test": {
+      "alert_share": 0.634,
+      "precision": 0.453,
+      "recall": 0.799
+    }
+  },
+  "configs": {
+    "A_all_features+rules": {
+      "cv_pr_auc_train": 0.9849,
+      "oof_roc_auc_train": 0.9862,
+      "test_roc_auc": 0.9688,
+      "test_pr_auc": 0.9532,
+      "best_params": {
+        "l2_regularization": 0.29507066707905333,
+        "learning_rate": 0.12268018301895914,
+        "max_depth": null,
+        "max_leaf_nodes": 58,
+        "min_samples_leaf": 108
+      },
+      "workload_share_to_catch_observed": {
+        "90%_of_attacks": 0.3899,
+        "95%_of_attacks": 0.4684,
+        "99%_of_attacks": 0.5774
+      },
+      "workload_share_to_catch_5%": {
+        "90%_of_attacks": 0.1429,
+        "95%_of_attacks": 0.2352,
+        "99%_of_attacks": 0.3776
+      },
+      "workload_share_to_catch_1%": {
+        "90%_of_attacks": 0.111,
+        "95%_of_attacks": 0.2052,
+        "99%_of_attacks": 0.3518
+      },
+      "auto_close_policy": {
+        "target_recall_95%": {
+          "threshold": 0.4868,
+          "train_oof_recall": 0.9501,
+          "test_recall": 0.9726,
+          "test_fpr": 0.2593,
+          "auto_closed_share_observed": 0.484,
+          "auto_closed_share_5%": 0.7051,
+          "auto_closed_share_1%": 0.7336
+        },
+        "target_recall_99%": {
+          "threshold": 0.2711,
+          "train_oof_recall": 0.99,
+          "test_recall": 0.9941,
+          "test_fpr": 0.3784,
+          "auto_closed_share_observed": 0.4,
+          "auto_closed_share_5%": 0.5908,
+          "auto_closed_share_1%": 0.6154
+        }
+      }
+    },
+    "B_robust(no testbed-artifact cols)+rules": {
+      "cv_pr_auc_train": 0.9848,
+      "oof_roc_auc_train": 0.9863,
+      "test_roc_auc": 0.9633,
+      "test_pr_auc": 0.9458,
+      "best_params": {
+        "l2_regularization": 0.29507066707905333,
+        "learning_rate": 0.12268018301895914,
+        "max_depth": null,
+        "max_leaf_nodes": 58,
+        "min_samples_leaf": 108
+      },
+      "workload_share_to_catch_observed": {
+        "90%_of_attacks": 0.4119,
+        "95%_of_attacks": 0.4849,
+        "99%_of_attacks": 0.5926
+      },
+      "workload_share_to_catch_5%": {
+        "90%_of_attacks": 0.1755,
+        "95%_of_attacks": 0.2597,
+        "99%_of_attacks": 0.4001
+      },
+      "workload_share_to_catch_1%": {
+        "90%_of_attacks": 0.145,
+        "95%_of_attacks": 0.2306,
+        "99%_of_attacks": 0.3753
+      },
+      "auto_close_policy": {
+        "target_recall_95%": {
+          "threshold": 0.4878,
+          "train_oof_recall": 0.95,
+          "test_recall": 0.9615,
+          "test_fpr": 0.2594,
+          "auto_closed_share_observed": 0.4879,
+          "auto_closed_share_5%": 0.7055,
+          "auto_closed_share_1%": 0.7336
+        },
+        "target_recall_99%": {
+          "threshold": 0.275,
+          "train_oof_recall": 0.99,
+          "test_recall": 0.9922,
+          "test_fpr": 0.3835,
+          "auto_closed_share_observed": 0.3974,
+          "auto_closed_share_5%": 0.5861,
+          "auto_closed_share_1%": 0.6104
+        }
+      }
+    },
+    "C_robust_no_rules": {
+      "cv_pr_auc_train": 0.9847,
+      "oof_roc_auc_train": 0.9862,
+      "test_roc_auc": 0.9633,
+      "test_pr_auc": 0.946,
+      "best_params": {
+        "l2_regularization": 0.29507066707905333,
+        "learning_rate": 0.12268018301895914,
+        "max_depth": null,
+        "max_leaf_nodes": 58,
+        "min_samples_leaf": 108
+      },
+      "workload_share_to_catch_observed": {
+        "90%_of_attacks": 0.4106,
+        "95%_of_attacks": 0.4886,
+        "99%_of_attacks": 0.5944
+      },
+      "workload_share_to_catch_5%": {
+        "90%_of_attacks": 0.1736,
+        "95%_of_attacks": 0.2651,
+        "99%_of_attacks": 0.4028
+      },
+      "workload_share_to_catch_1%": {
+        "90%_of_attacks": 0.143,
+        "95%_of_attacks": 0.2363,
+        "99%_of_attacks": 0.378
+      },
+      "auto_close_policy": {
+        "target_recall_95%": {
+          "threshold": 0.4883,
+          "train_oof_recall": 0.95,
+          "test_recall": 0.9606,
+          "test_fpr": 0.2582,
+          "auto_closed_share_observed": 0.4889,
+          "auto_closed_share_5%": 0.7066,
+          "auto_closed_share_1%": 0.7347
+        },
+        "target_recall_99%": {
+          "threshold": 0.2729,
+          "train_oof_recall": 0.99,
+          "test_recall": 0.9925,
+          "test_fpr": 0.3845,
+          "auto_closed_share_observed": 0.3967,
+          "auto_closed_share_5%": 0.5851,
+          "auto_closed_share_1%": 0.6094
+        }
+      }
+    }
+  },
+  "baselines_test": {
+    "random_review": {
+      "90%": 0.9,
+      "95%": 0.95,
+      "99%": 0.99
+    },
+    "rule_severity_ranking_observed": {
+      "90%": 0.8224,
+      "95%": 0.9108,
+      "99%": 0.9811
+    },
+    "rule_severity_ranking_5%": {
+      "90%": 0.7848,
+      "95%": 0.8918,
+      "99%": 0.9767
+    },
+    "rule_severity_roc_auc": 0.6443,
+    "logistic_regression_roc_auc": 0.8466,
+    "logistic_regression_workload_observed": {
+      "90%": 0.5543,
+      "95%": 0.6042,
+      "99%": 0.6763
+    }
+  },
+  "bootstrap_95ci_headline": {
+    "roc_auc": [
+      0.962,
+      0.9646
+    ],
+    "workload_95%_observed": [
+      0.4789,
+      0.4924
+    ],
+    "workload_95%_at_5%_base_rate": [
+      0.2526,
+      0.2697
+    ]
+  },
+  "per_attack_category_test": {
+    "Analysis": {
+      "n": 294,
+      "missed_when_auto_closing_at_95%_policy": 0.061,
+      "rule_alert_recall": 0.704
+    },
+    "Backdoor": {
+      "n": 70,
+      "missed_when_auto_closing_at_95%_policy": 0.0,
+      "rule_alert_recall": 0.714
+    },
+    "DoS": {
+      "n": 1186,
+      "missed_when_auto_closing_at_95%_policy": 0.008,
+      "rule_alert_recall": 0.684
+    },
+    "Exploits": {
+      "n": 7085,
+      "missed_when_auto_closing_at_95%_policy": 0.013,
+      "rule_alert_recall": 0.72
+    },
+    "Fuzzers": {
+      "n": 4335,
+      "missed_when_auto_closing_at_95%_policy": 0.136,
+      "rule_alert_recall": 0.897
+    },
+    "Generic": {
+      "n": 3381,
+      "missed_when_auto_closing_at_95%_policy": 0.001,
+      "rule_alert_recall": 0.815
+    },
+    "Reconnaissance": {
+      "n": 2224,
+      "missed_when_auto_closing_at_95%_policy": 0.007,
+      "rule_alert_recall": 0.899
+    },
+    "Shellcode": {
+      "n": 365,
+      "missed_when_auto_closing_at_95%_policy": 0.008,
+      "rule_alert_recall": 0.858
+    },
+    "Worms": {
+      "n": 43,
+      "missed_when_auto_closing_at_95%_policy": 0.0,
+      "rule_alert_recall": 0.744
+    }
+  },
+  "top_features_permutation_roc_auc_drop": {
+    "dload": 0.0907,
+    "ackdat": 0.0258,
+    "service": 0.0239,
+    "ct_srv_dst": 0.0177,
+    "ct_dst_src_ltm": 0.0157,
+    "smean": 0.0132,
+    "sbytes": 0.0125,
+    "dbytes": 0.0107,
+    "dmean": 0.0103,
+    "state": 0.0082
+  }
+}

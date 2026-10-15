@@ -1,0 +1,15 @@
+title: Unusually large HTTP response body
+id: large_http_response_body
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        service: http
+        response_body_len|gt: 5000
+    condition: selection
+level: low
+tags:
+    - attack.initial_access
+    - attack.t1190

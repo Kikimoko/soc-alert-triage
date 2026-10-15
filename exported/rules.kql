@@ -1,0 +1,10 @@
+connection_burst_same_service: ct_srv_dst >= 15
+connection_burst_src_dst_pair: ct_dst_src_ltm >= 15
+dns_no_response_burst: proto: "udp" and service: "dns" and dpkts: 0 and ct_srv_src >= 10
+high_source_jitter: sjit > 20000
+http_request_reused_connection: service: "http" and ct_flw_http_mthd >= 3
+large_http_response_body: service: "http" and response_body_len > 5000
+many_ports_probed: ct_src_dport_ltm >= 8
+rare_ip_protocol: (proto: "unas" or proto: "ospf" or proto: "sctp" or proto: "sun-nd" or proto: "pim")
+slow_paced_tcp_flow: proto: "tcp" and sinpkt > 30 and rate < 100
+udp_single_packet_no_service: proto: "udp" and service: "-" and state: "INT" and dpkts: 0

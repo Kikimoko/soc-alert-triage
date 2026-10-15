@@ -1,0 +1,15 @@
+title: TCP flow interrupted before normal teardown (scan / probe pattern)
+id: interrupted_tcp_flow
+status: experimental
+description: Flow-level detection over UNSW-NB15-style records (thresholds reviewed on the TRAINING partition only).
+logsource:
+    category: network_flow
+detection:
+    selection:
+        proto: tcp
+        state: INT
+    condition: selection
+level: low
+tags:
+    - attack.discovery
+    - attack.t1046
